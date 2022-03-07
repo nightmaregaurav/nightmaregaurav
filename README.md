@@ -38,11 +38,11 @@ Tools and Platforms i am using/have used:
 **Stats**
 <p >
  <a href="https://github.com/nightmaregaurav">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nightmaregaurav&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&line_height=32" alt="Gaurav's GitHub Stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nightmaregaurav&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&line_height=32&theme=cobalt" alt="Gaurav's GitHub Stats" />
  </a>
 
  <a href="https://github.com/nightmaregaurav">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightmaregaurav&show_icons=true&langs_count=3&layout=default&hide_border=false" alt="Gaurav's GitHub Stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightmaregaurav&show_icons=true&langs_count=3&layout=default&hide_border=false&theme=gruvbox" alt="Gaurav's GitHub Stats"/>
  </a>
 </p>
 
