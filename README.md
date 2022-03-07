@@ -35,16 +35,14 @@ Tools and Platforms i am using/have used:
  - **MonoDevelop**
  - **Xcode**
 
-**Stats**
-<p>
+## 📊 Stats
+<p align="center">
  <a href="https://github.com/nightmaregaurav">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nightmaregaurav&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&theme=cobalt" alt="Gaurav's GitHub Stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nightmaregaurav&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&theme=cobalt&line_height=48" alt="Gaurav's GitHub Stats" />
  </a>
-</p>
-<br>
-<p>
+ 
  <a href="https://github.com/nightmaregaurav">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightmaregaurav&show_icons=true&langs_count=6&layout=default&hide_border=false&theme=gruvbox" alt="Gaurav's GitHub Stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightmaregaurav&show_icons=true&langs_count=5&layout=default&hide_border=false&theme=gruvbox" alt="Gaurav's GitHub Stats"/>
  </a>
 </p>
 
