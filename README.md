@@ -10,10 +10,11 @@ Beside the magic of being able to keep trying on and on until my code finally wo
 ## 🔥 Technologies
 Talk to me about
 - Front-end development using **React, Bootstrap**
-- Backend development using **ASP.NET Core, Node, Express, Django, WSGI**
+- Backend development using **ASP.NET Core, Node, Express, Django, WSGI, EntityFramework, NHibernate**
 - Architectural design for **Relational Database Management Systems**
-- Robust full-stack system design implementation
-- Desktop application development using **WPF or WinForms**
+- Robust full-stack system design and implementation
+- RESTful API design and implementation
+- Desktop application development using **WPF, WinForms, JavaFX, JavaSwing, Tkinter, QT**
 - Mobile application development using **Android (Java), iOS(Swift)**
 - Software project documentation including **use-case, DFD, ERD, Class Diagram, Object Diagram, Activity Diagram, Sequence Diagram, Document Formatting and Typography**
 
@@ -21,6 +22,7 @@ Talk to me about
 Tools and Platforms i am using/have used:
  - **VScode**
  - **VisualStudio**
+ - **Rider**
  - **Pycharm**
  - **NetBeans**
  - **Git**
