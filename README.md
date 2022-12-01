@@ -1,8 +1,15 @@
 # 👋 Hi, I’m Gaurav Nyaupane
 
 Independent Software Developer 👨‍💻 | Hungry Learner 📖 | Restless Researcher 📚
-<br>
+<br/>
 Co-Founder @ [Bachelor Of Computer Application-TU Student's help page](https://www.facebook.com/BachelorOfComputerApplicationTU) and [BCA (त्रिभुवन  UNIVERSITY) Facebook Group](https://www.facebook.com/groups/bcatunepal)
+<br/>
+
+## 🔍 Find Me
+- Website - [www.gauravnyaupane.com.np](https://www.gauravnyaupane.com.np)
+- Facebook - [nightmaregaurav](https://www.facebook.com/NightmareGaurav)
+- Instagram - [gauravnightmare](https://www.instagram.com/gauravnightmare)
+- Linkedin - [nightmaregaurav](https://www.linkedin.com/in/nightmaregaurav)
 
 ## 🤷 About
 Beside the magic of being able to keep trying on and on until my code finally works, and keep coding 24 hours just to make an effort to develop something that will make world a better place, I also provide help and support to newbies. While i help them with what i already know i also try and learn from them...
@@ -47,12 +54,6 @@ Tools and Platforms i am using/have used:
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightmaregaurav&show_icons=true&langs_count=5&layout=default&hide_border=false&theme=gruvbox" alt="Gaurav's GitHub Stats"/>
  </a>
 </p>
-
-<br/>
-
-## 📞 Contact Me
-- Facebook - [Gaurav Nyaupane](https://www.facebook.com/NightmareGaurav/)
-- Instagram - [Gaurav Nyaupane](https://www.instagram.com/gauravnightmare/)
 
 <!---
 nightmaregaurav/nightmaregaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
