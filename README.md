@@ -44,7 +44,7 @@ Tools and Platforms i am using/have used:
  - **MonoDevelop**
  - **Xcode**
 
-## 📊 Stats
+## ✔️ Profile Summary
 <p align="center">
  <a href="https://github.com/nightmaregaurav">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nightmaregaurav&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&theme=cobalt&line_height=48" alt="Gaurav's GitHub Stats" />
@@ -52,6 +52,13 @@ Tools and Platforms i am using/have used:
  
  <a href="https://github.com/nightmaregaurav">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightmaregaurav&show_icons=true&langs_count=5&layout=default&hide_border=false&theme=gruvbox" alt="Gaurav's GitHub Stats"/>
+ </a>
+</p>
+
+## 📊 Stats
+<p align="center">
+ <a href="https://github.com/nightmaregaurav">
+   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightmaregaurav&theme=algolia" alt="Gaurav's GitHub Stats" />
  </a>
  
  <a href="https://github.com/nightmaregaurav">
@@ -63,6 +70,13 @@ Tools and Platforms i am using/have used:
 <p align="center">
  <a href="https://github.com/nightmaregaurav">
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=nightmaregaurav&theme=matrix&no-frame=true&no-bg=true&margin-w=2" alt="nightmare-gaurav" />
+ </a>
+</p>
+
+## 📈 Contribution Graph
+<p align="center">
+ <a href="https://github.com/nightmaregaurav">
+   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=nightmaregaurav&theme=github-compact" />
  </a>
 </p>
 
