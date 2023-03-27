@@ -60,7 +60,11 @@ Tools and Platforms i am using/have used:
 </p>
 
 ## 🏆 Github Trophies
-![](https://github-profile-trophy.vercel.app/?username=nightmaregaurav&theme=matrix&no-frame=true&no-bg=true&margin-w=2)
+<p align="center">
+ <a href="https://github.com/nightmaregaurav">
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=nightmaregaurav&theme=matrix&no-frame=true&no-bg=true&margin-w=2" alt="nightmare-gaurav" />
+ </a>
+</p>
 
 <!---
 nightmaregaurav/nightmaregaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
