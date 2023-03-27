@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gaurav Nyaupane
+# 👋 Hi, I’m Gaurav Nyaupane <img align="center" src="https://komarev.com/ghpvc/?username=nightmaregaurav&color=green" alt="Gaurav's Profile Views" />
 
 Independent Software Developer 👨‍💻 | Hungry Learner 📖 | Restless Researcher 📚
 <br/>
@@ -58,6 +58,9 @@ Tools and Platforms i am using/have used:
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nightmaregaurav" alt="nightmare-gaurav" />
  </a>
 </p>
+
+## 🏆 Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=nightmaregaurav&theme=matrix&no-frame=true&no-bg=true&margin-w=2)
 
 <!---
 nightmaregaurav/nightmaregaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
