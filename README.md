@@ -47,7 +47,7 @@ Tools and Platforms i am using/have used:
 ## ✔️ Profile Summary
 <p align="center">
  <a href="https://github.com/nightmaregaurav">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nightmaregaurav&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&theme=cobalt&line_height=48" alt="Gaurav's GitHub Stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nightmaregaurav&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&theme=cobalt&line_height=48" alt="Gaurav's GitHub Stats"/>
  </a>
  
  <a href="https://github.com/nightmaregaurav">
