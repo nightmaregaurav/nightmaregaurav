@@ -10,6 +10,8 @@ Co-Founder @ [Bachelor Of Computer Application-TU Student's help page](https://w
 - Facebook - [nightmaregaurav](https://www.facebook.com/NightmareGaurav)
 - Instagram - [gauravnightmare](https://www.instagram.com/gauravnightmare)
 - Linkedin - [nightmaregaurav](https://www.linkedin.com/in/nightmaregaurav)
+- Medium - [nightmaregaurav](https://medium.com/@nightmaregaurav)
+- <b>other contacts are listed on my website</b>
 
 ## 🤷 About
 Beside the magic of being able to keep trying on and on until my code finally works, and keep coding 24 hours just to make an effort to develop something that will make world a better place, I also provide help and support to newbies. While i help them with what i already know i also try and learn from them...
