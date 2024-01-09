@@ -30,7 +30,7 @@ Beside the magic of being able to keep trying on and on until my code finally wo
  </a>
  
  <a href="https://github.com/nightmaregaurav">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightmaregaurav&show_icons=true&langs_count=5&layout=default&hide_border=false&theme=gruvbox" alt="Gaurav's GitHub Stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightmaregaurav&show_icons=true&langs_count=5&hide_border=false&theme=gruvbox" alt="Gaurav's GitHub Stats"/>
  </a>
 </p>
 
