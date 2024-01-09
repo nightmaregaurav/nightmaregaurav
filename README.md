@@ -55,7 +55,7 @@ Beside the magic of being able to keep trying on and on until my code finally wo
 ## 📈 Contribution Graph
 <p align="center">
  <a href="https://github.com/nightmaregaurav">
-   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=nightmaregaurav&theme=github-compact" />
+   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nightmaregaurav&theme=github-compact" />
  </a>
 </p>
 
