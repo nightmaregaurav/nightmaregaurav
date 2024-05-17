@@ -5,6 +5,14 @@ Independent Software Developer 👨‍💻 | Hungry Learner 📖 | Restless Rese
 Co-Founder @ [Bachelor Of Computer Application-TU Student's help page](https://www.facebook.com/BachelorOfComputerApplicationTU) and [BCA (त्रिभुवन  UNIVERSITY) Facebook Group](https://www.facebook.com/groups/bcatunepal)
 <br/>
 
+## 🏃 Existence Milestones (as of 10AM Nepal Time Today)
+ - ~23 Years.
+ - ~{{months}} Months.
+ - ~{{days}} Days.
+ - ~{{hours}} Hours.
+ - ~{{minutes}} Minutes.
+ - ~{{seconds}} Seconds.
+
 ## 🔍 Find Me
 - Website - [www.gauravnyaupane.com.np](https://www.gauravnyaupane.com.np)
 - Facebook - [nightmaregaurav](https://www.facebook.com/NightmareGaurav)
