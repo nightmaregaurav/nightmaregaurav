@@ -7,11 +7,11 @@ Co-Founder @ [Bachelor Of Computer Application-TU Student's help page](https://w
 
 ## 🏃 Existence Milestones (as of 10AM Nepal Time Today)
  - ~23 Years.
- - ~281 Months.
- - ~8559 Days.
- - ~205420 Hours.
- - ~12325229 Minutes.
- - ~739513788 Seconds.
+ - ~{{months}} Months.
+ - ~{{days}} Days.
+ - ~{{hours}} Hours.
+ - ~{{minutes}} Minutes.
+ - ~{{seconds}} Seconds.
 
 ## 🔍 Find Me
 - Website - [www.gauravnyaupane.com.np](https://www.gauravnyaupane.com.np)
