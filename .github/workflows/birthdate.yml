@@ -1,5 +1,5 @@
-# This will update the birthday in the readme every day exactly at 10 AM Nepal Time (4:15 AM UTC)
-name: Update the birthday in the readme every day exactly at 10 AM Nepal Time (4:15 AM UTC)
+# This will update the birthday in the readme every day exactly at 10 AM Nepal Time (4:15 AM UTC) (or on every push of master branch)
+name: Update the birthday in the readme every day exactly at 10 AM Nepal Time (4:15 AM UTC) (or on every push of master branch)
 
 on:
   schedule:
