@@ -5,7 +5,7 @@ Independent Software Developer 👨‍💻 | Hungry Learner 📖 | Restless Rese
 Co-Founder @ [Bachelor Of Computer Application-TU Student's help page](https://www.facebook.com/BachelorOfComputerApplicationTU) and [BCA (त्रिभुवन  UNIVERSITY) Facebook Group](https://www.facebook.com/groups/bcatunepal)
 <br/>
 
-## 🏃 Existence Milestones (as of Tue May 28 11:34:46 UTC 2024)
+## 🏃 Existence Milestones (as of Tue May 28 11:35:33 UTC 2024)
  - ~{{years}} Years.
  - ~{{months}} Months.
  - ~{{days}} Days.
