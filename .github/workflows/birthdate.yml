@@ -27,6 +27,12 @@ jobs:
       - name: Commit the change
         run: git add --all && git commit -m "Updated on $(date)"
 
+      - name: Update date
+        run: sed "s|{{date}}|$(date)|g" README.md.template > README.md
+
+      - name: Commit the change
+        run: git add --all && git commit -m "Updated date"
+
       - name: Update years
         run: sed "s|{{years}}|$((($(date +%s)-$(date +%s -d 20001219))/31536000))|g" README.md.template > README.md
 
