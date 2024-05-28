@@ -5,13 +5,13 @@ Independent Software Developer 👨‍💻 | Hungry Learner 📖 | Restless Rese
 Co-Founder @ [Bachelor Of Computer Application-TU Student's help page](https://www.facebook.com/BachelorOfComputerApplicationTU) and [BCA (त्रिभुवन  UNIVERSITY) Facebook Group](https://www.facebook.com/groups/bcatunepal)
 <br/>
 
-## 🏃 Existence Milestones (as of 10AM Nepal Time Today)
- - ~23 Years.
- - ~281 Months.
- - ~8561 Days.
- - ~205468 Hours.
- - ~12328108 Minutes.
- - ~739686531 Seconds.
+## 🏃 Existence Milestones (as of Tue May 28 11:32:00 UTC 2024)
+ - ~{{years}} Years.
+ - ~{{months}} Months.
+ - ~{{days}} Days.
+ - ~{{hours}} Hours.
+ - ~{{minutes}} Minutes.
+ - ~{{seconds}} Seconds.
 
 ## 🔍 Find Me
 - Website - [www.gauravnyaupane.com.np](https://www.gauravnyaupane.com.np)
@@ -66,6 +66,15 @@ Beside the magic of being able to keep trying on and on until my code finally wo
    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=nightmaregaurav&theme=github-compact" />
  </a>
 </p>
+
+## 💲 Donate
+<a href="https://liberapay.com/NightmareGaurav/donate">
+ <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.paypal.com/donate/?hosted_button_id=LG8Q32VA2VHT6">
+ <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg" alt="Donate with PayPal" style="height: 30px" />
+</a>
 
 <!---
 nightmaregaurav/nightmaregaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
