@@ -1,5 +1,5 @@
 # This will update the birthday in the readme everyday exactly at 10 AM Nepal Time (4:15 AM UTC)
-name: Update the birthday in the readme everyday exactly at 10 AM Nepal Time (4:15 AM UTC)
+name: Update the birthday in the readme every day exactly at 10 AM Nepal Time (4:15 AM UTC)
 
 on:
   schedule:
@@ -21,7 +21,7 @@ jobs:
       - name: Prepare git config
         run: git config --global user.email "mail.gauravnyaupane@gmail.com" && git config --global user.name "nightmaregaurav"
 
-      - name: Add dummy file to trigger update
+      - name: Add dummy file to trigger the update
         run: date > last_updated_on.date
 
       - name: Commit the change
