@@ -5,13 +5,13 @@ Independent Software Developer 👨‍💻 | Hungry Learner 📖 | Restless Rese
 Co-Founder @ [Bachelor Of Computer Application-TU Student's help page](https://www.facebook.com/BachelorOfComputerApplicationTU) and [BCA (त्रिभुवन  UNIVERSITY) Facebook Group](https://www.facebook.com/groups/bcatunepal)
 <br/>
 
-## 🏃 Existence Milestones (as of Sun Jul 21 04:28:08 UTC 2024)
+## 🏃 Existence Milestones (as of Sun Jul 21 15:57:00 UTC 2024)
  - ~23 Years.
  - ~283 Months.
  - ~8615 Days.
- - ~206764 Hours.
- - ~12405868 Minutes.
- - ~744352088 Seconds.
+ - ~206775 Hours.
+ - ~12406557 Minutes.
+ - ~744393421 Seconds.
 
 ## 🔍 Find Me
 - Website - [www.gauravnyaupane.com.np](https://www.gauravnyaupane.com.np)
