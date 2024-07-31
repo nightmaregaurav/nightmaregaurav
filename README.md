@@ -11,7 +11,7 @@ Co-Founder @ [Bachelor Of Computer Application-TU Student's help page](https://w
  - ~8625 Days.
  - ~207004 Hours.
  - ~12420263 Minutes.
- - ~{{seconds}} Seconds.
+ - ~745215824 Seconds.
 
 ## 🔍 Find Me
 - Website - [www.gauravnyaupane.com.np](https://www.gauravnyaupane.com.np)
