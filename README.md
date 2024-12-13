@@ -7,13 +7,13 @@ Independent Software Developer 👨‍💻 | Hungry Learner 📖 | Restless Rese
 Co-Founder @ [Bachelor Of Computer Application-TU Student's help page](https://www.facebook.com/BachelorOfComputerApplicationTU) and [BCA (त्रिभुवन  UNIVERSITY) Facebook Group](https://www.facebook.com/groups/bcatunepal)
 <br/>
 
-## 🏃 Existence Milestones (as of Thu Dec 12 04:35:02 UTC 2024)
- - ~23 Years.
- - ~287 Months.
- - ~8759 Days.
- - ~210220 Hours.
- - ~12613235 Minutes.
- - ~756794102 Seconds.
+## 🏃 Existence Milestones (as of Fri Dec 13 04:33:53 UTC 2024)
+ - ~{{years}} Years.
+ - ~{{months}} Months.
+ - ~{{days}} Days.
+ - ~{{hours}} Hours.
+ - ~{{minutes}} Minutes.
+ - ~{{seconds}} Seconds.
 
 ## 🌱 Life Fact
 I was declared "on the brink of death" twice. Yet, I pulled through and am now living a healthy life. So, this is my third attempt at life, and I'm committed to making a real impact in the world. Want to know more? Connect with me!
