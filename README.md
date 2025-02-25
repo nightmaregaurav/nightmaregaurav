@@ -13,7 +13,7 @@ Co-Founder @ [Bachelor Of Computer Application-TU Student's help page](https://w
  - ~8834 Days.
  - ~212020 Hours.
  - ~12721231 Minutes.
- - ~{{seconds}} Seconds.
+ - ~763273905 Seconds.
 
 ## 🌱 Life Fact
 I was declared "on the brink of death" twice. Yet, I pulled through and am now living a healthy life. So, this is my third attempt at life, and I'm committed to making a real impact in the world. Want to know more? Connect with me!
