@@ -10,7 +10,7 @@ Co-Founder @ [Bachelor Of Computer Application-TU Student's help page](https://w
 ## 🏃 Existence Milestones (as of Tue Mar 25 04:34:29 UTC 2025)
  - ~24 Years.
  - ~291 Months.
- - ~{{days}} Days.
+ - ~8862 Days.
  - ~{{hours}} Hours.
  - ~{{minutes}} Minutes.
  - ~{{seconds}} Seconds.
