@@ -20,8 +20,8 @@ I was declared "on the brink of death" twice. Yet, I pulled through and am now l
 
 ## 🔍 Find Me
 - Website - [www.gauravnyaupane.com.np](https://www.gauravnyaupane.com.np)
-- Facebook - [nightmaregaurav](https://www.facebook.com/NightmareGaurav)
-- Instagram - [gauravnightmare](https://www.instagram.com/gauravnightmare)
+- Facebook - Nope! I'm not there.
+- Instagram - Nope! I'm not there.
 - Linkedin - [nightmaregaurav](https://www.linkedin.com/in/nightmaregaurav)
 - Medium - [nightmaregaurav](https://medium.com/@nightmaregaurav)
 - <b>other contacts are listed on my website</b>
