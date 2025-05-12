@@ -1,0 +1,73 @@
+# This will update the birthday in the readme every day exactly at 10 AM Nepal Time (4:15 AM UTC) (or on every push of master branch)
+name: Update the birthday in the readme every day exactly at 10 AM Nepal Time (4:15 AM UTC) (or on every push of master branch)
+
+on:
+  schedule:
+  - cron: '15 4 * * *'
+
+  # push:
+  #   branches: [ "master" ]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Prepare git config
+        run: git config --global user.email "nightmaregaurav@users.noreply.github.com" && git config --global user.name "Gaurav Nyaupane"
+
+      - name: Add dummy file to trigger the update
+        run: date > last_updated_on.date
+
+      - name: Commit the change
+        run: git add --all && git commit -m "Updated on $(date)"
+
+      - name: Update date
+        run: sed "s|{{date}}|$(date)|g" README.md.template > README.md
+
+      - name: Commit the change
+        run: git add --all && git commit -m "Updated date"
+
+      - name: Update years
+        run: sed -i "s|{{years}}|$((($(date +%s)-$(date +%s -d 20001219))/31536000))|g" README.md
+
+      - name: Commit the change
+        run: git add --all && git commit -m "Updated years"
+
+      - name: Update months
+        run: sed -i "s|{{months}}|$((($(date +%s)-$(date +%s -d 20001219))/2628000))|g" README.md
+
+      - name: Commit the change
+        run: git add --all && git commit -m "Updated months"
+
+      - name: Update days
+        run: sed -i "s|{{days}}|$((($(date +%s)-$(date +%s -d 20001219))/86400))|g" README.md
+
+      - name: Commit the change
+        run: git add --all && git commit -m "Updated days"
+
+      - name: Update hours
+        run: sed -i "s|{{hours}}|$((($(date +%s)-$(date +%s -d 20001219))/3600))|g" README.md
+
+      - name: Commit the change
+        run: git add --all && git commit -m "Updated hours"
+
+      - name: Update minutes
+        run: sed -i "s|{{minutes}}|$((($(date +%s)-$(date +%s -d 20001219))/60))|g" README.md
+
+      - name: Commit the change
+        run: git add --all && git commit -m "Updated minutes"
+
+      - name: Update seconds
+        run: sed -i "s|{{seconds}}|$(($(date +%s)-$(date +%s -d 20001219)))|g" README.md
+
+      - name: Commit the change
+        run: git add --all && git commit -m "Updated seconds"
+
+      - name: Push new file
+        run: git push
