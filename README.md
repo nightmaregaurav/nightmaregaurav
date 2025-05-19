@@ -7,13 +7,13 @@ Independent Software Developer 👨‍💻 | Hungry Learner 📖 | Restless Rese
 Co-Founder @ [Bachelor Of Computer Application-TU Student's help page](https://www.facebook.com/BachelorOfComputerApplicationTU) and [BCA (त्रिभुवन  UNIVERSITY) Facebook Group](https://www.facebook.com/groups/bcatunepal)
 <br/>
 
-## 🏃 Existence Milestones (as of Sun May 18 04:36:57 UTC 2025)
- - ~24 Years.
- - ~293 Months.
- - ~8916 Days.
- - ~213988 Hours.
- - ~12839316 Minutes.
- - ~770359017 Seconds.
+## 🏃 Existence Milestones (as of Mon May 19 04:37:47 UTC 2025)
+ - ~{{years}} Years.
+ - ~{{months}} Months.
+ - ~{{days}} Days.
+ - ~{{hours}} Hours.
+ - ~{{minutes}} Minutes.
+ - ~{{seconds}} Seconds.
 
 ## 🤷 About
 Full-stack engineer specializing in .NET and React since 2018, with a strong interest in research-driven innovation. I’m particularly focused on medical informatics, computer vision for handwritten health data, and AI applications in healthcare for underserved regions. I enjoy solving meaningful problems through code, regularly sharing my hobby projects and helper tools as open-source contributions on GitHub. I thrive on experimentation, collaboration, and continuous learning.
