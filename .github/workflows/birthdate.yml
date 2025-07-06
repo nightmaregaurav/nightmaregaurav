@@ -4,7 +4,7 @@ name: Update the birthday in the readme every day exactly at 10 AM Nepal Time (4
 on:
   schedule:
   - cron: '15 4 * * *'
-
+  workflow_dispatch:       # Allows manual trigger from GitHub UI
   # push:
   #   branches: [ "master" ]
 
