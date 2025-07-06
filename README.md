@@ -1,5 +1,3 @@
-**Note:** If you landed here from the top committers page, let me set the record straight: **I value quality, not quantity.** (Further info at the end of this page)
-
 # 👋 Hi, I’m Gaurav Nyaupane <img align="center" src="https://komarev.com/ghpvc/?username=nightmaregaurav&color=green" alt="Gaurav's Profile Views" />
 
 Independent Software Developer 👨‍💻 | Hungry Learner 📖 | Restless Researcher 📚 | Clean Code Fanatic 🧹
@@ -7,13 +5,13 @@ Independent Software Developer 👨‍💻 | Hungry Learner 📖 | Restless Rese
 Co-Founder @ [Bachelor Of Computer Application-TU Student's help page](https://www.facebook.com/BachelorOfComputerApplicationTU) and [BCA (त्रिभुवन  UNIVERSITY) Facebook Group](https://www.facebook.com/groups/bcatunepal)
 <br/>
 
-## 🏃 Existence Milestones (as of Sun Jul  6 04:43:48 UTC 2025)
- - ~24 Years.
- - ~294 Months.
- - ~8965 Days.
- - ~215164 Hours.
- - ~12909883 Minutes.
- - ~774593028 Seconds.
+## 🏃 Existence Milestones (as of Sun Jul  6 13:49:34 UTC 2025)
+ - ~{{years}} Years.
+ - ~{{months}} Months.
+ - ~{{days}} Days.
+ - ~{{hours}} Hours.
+ - ~{{minutes}} Minutes.
+ - ~{{seconds}} Seconds.
 
 ## 🤷 About
 Full-stack engineer specializing in .NET and React since 2018, with a strong interest in research-driven innovation. I’m particularly focused on medical informatics, computer vision for handwritten health data, and AI applications in healthcare for underserved regions. I enjoy solving meaningful problems through code, regularly sharing my hobby projects and helper tools as open-source contributions on GitHub. I thrive on experimentation, collaboration, and continuous learning.
@@ -41,11 +39,11 @@ Full-stack engineer specializing in .NET and React since 2018, with a strong int
 
 ---
 
-🧐 **What's the notice on the top of the readme?** 
+🧾 **Statement on Commit Counts:** 
 
 Once there was a trend of people trying to get the highest commit count on GitHub by any means necessary. I was particularly annoyed by this trend when I saw employers and recruiters using commit counts as a metric to judge developers in public posts on LinkedIn. So, I decided to take a stand and show how ridiculous this practice is.
 <br/>
-Most of the top committers were using bots to spam commits, some of them committing just about anything, only a few of them were actually doing something useful. I wanted to show that anyone can get on the top of the list without making any meaningful contribution. So, I created a blank repository and a bot that would automatically add thousands of commits there every day.
+Most of the top committers were using bots to spam commits, some of them committing just about anything, and only a few of them were actually doing something useful. I wanted to show that anyone can get on the top of the list without making any meaningful contribution. So, I created a blank repository and a bot that would automatically add thousands of commits there every day.
 
 
 🔍 **Where did the commits go?** 
