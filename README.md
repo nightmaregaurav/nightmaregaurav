@@ -10,7 +10,7 @@ Co-Founder @ [Bachelor Of Computer Application-TU Student's help page](https://w
  - ~311 Months.
  - ~9461 Days.
  - ~227075 Hours.
- - ~{{minutes}} Minutes.
+ - ~13624524 Minutes.
  - ~{{seconds}} Seconds.
 
 ## 🤷 About
